@@ -1,1 +1,1 @@
-main branch edit to create conflict
+Resolved: main branch and feature branch merged successfully
